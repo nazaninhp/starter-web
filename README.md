@@ -15,3 +15,8 @@ This is a simple website project for showing how to use Git and Github together.
 his document show how to deploy.
 
 ##How to contribute
+
+
+##Copyright
+
+2014 Git.Training
