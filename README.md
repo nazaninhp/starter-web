@@ -16,7 +16,7 @@ his document show how to deploy.
 
 ##How to contribute
 
-
+Please fork this repository and then issue pull request for review. 
 ##Copyright
 
 2014 Git.Training
