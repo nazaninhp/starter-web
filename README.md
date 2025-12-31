@@ -19,4 +19,4 @@ his document show how to deploy.
 Please fork this repository and then issue pull request for review. 
 ##Copyright
 
-2014 Git.Training
+2014 Git.Training.All rights reserved.
